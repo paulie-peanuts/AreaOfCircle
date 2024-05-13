@@ -1,0 +1,14 @@
+/Users/paulfilipkowski/Desktop/LaunchCode/AreaOfCircle/AreaOfCircle/bin/Debug/net8.0/AreaOfCircle
+/Users/paulfilipkowski/Desktop/LaunchCode/AreaOfCircle/AreaOfCircle/bin/Debug/net8.0/AreaOfCircle.deps.json
+/Users/paulfilipkowski/Desktop/LaunchCode/AreaOfCircle/AreaOfCircle/bin/Debug/net8.0/AreaOfCircle.runtimeconfig.json
+/Users/paulfilipkowski/Desktop/LaunchCode/AreaOfCircle/AreaOfCircle/bin/Debug/net8.0/AreaOfCircle.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/AreaOfCircle/AreaOfCircle/bin/Debug/net8.0/AreaOfCircle.pdb
+/Users/paulfilipkowski/Desktop/LaunchCode/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulfilipkowski/Desktop/LaunchCode/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.AssemblyInfoInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.AssemblyInfo.cs
+/Users/paulfilipkowski/Desktop/LaunchCode/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.csproj.CoreCompileInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/refint/AreaOfCircle.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.pdb
+/Users/paulfilipkowski/Desktop/LaunchCode/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/AreaOfCircle.genruntimeconfig.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/AreaOfCircle/AreaOfCircle/obj/Debug/net8.0/ref/AreaOfCircle.dll
